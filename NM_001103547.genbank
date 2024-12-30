@@ -1,0 +1,71 @@
+LOCUS       NM_001103547.4          3518 bp    DNA              UNK 01-JAN-1980
+DEFINITION  NM_001103547.4 Drosophila melanogaster Cyclic-AMP response element
+            binding protein B (CrebB), transcript variant I, mRNA.
+ACCESSION   NM_001103547
+VERSION     NM_001103547.4
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gccgttggtt agtcagtcat catcagtgct ttttagagct acgtagagaa cagacggcct
+       61 tcccaaacac acacaccaca cacacaagcg cgcacacaca cgcacagagg cggcaaaata
+      121 gaaaagggaa aaacaaaggc ggcaacaaga acaacaaagg tgacgattca aaagcggcga
+      181 attttgagcg ccaaaacccg aaagatatac cgcaaagagc acataggttt ttttttcagt
+      241 gcttcagtgt ttataattat agcttttctg tacaattttg agagtgtgtg tgtgtgagcg
+      301 tgtaatcaaa tacaaatcag taaaataaca aaaatcttga cgtaatcgct gaaatgcaaa
+      361 gcaaacgaca cgaaaacgag caacaataac aaaaagccat ttgaattcct tctgtgacgg
+      421 ttttcggttt ttaatttttg cagcttacgg tcaacgaaaa gagacggagc gcaaacacac
+      481 tcgcgagtgg tgttgtagtt attgtactca ctcttttttt ttgtcgtgta gtgcctatgt
+      541 ttgccgttat gcaaagattt cattgttatt agtcagcaaa cgtcaacagg cagcaacaac
+      601 aaagcaacaa ccaaaacgga aacgtcttca agctggccaa attgaagcgg aaacggtagc
+      661 caaactgaag cacttgtcgg agagcgtctc ggtgctgctg aagatcgcca ggatcggcaa
+      721 catggacaac agcatcgtcg aggagaacgg caactcgtcg gcggcatcgg gctccaatga
+      781 cgtggtcgat gtcgttgccc aacaggcggc ggcagcggtg ggcggcggcg gtggaggagg
+      841 aggaggcggc ggcggtggta acccccagca gcagcaacag aacccacaaa gtacaacggc
+      901 cggcggtcca acgggtgcga cgaacaacgc ccagggaggc ggagtgtcct ccgtgctgac
+      961 caccaccgcc aactgcaaca tacaataccc catccagacg ctggcgcagc acggactgca
+     1021 ggtgcagtcc gtgatacagg ccaatccctc gggagtcata cagacagcag ctggaaccca
+     1081 gcagcagcaa caggcgctgg ccgccgccac agcgatgcag aaggtggtct acgtggccaa
+     1141 gccgccgaac tcgacggtca tccacacgac gcctggcaat gcagtgcaaa tccctccaac
+     1201 ctttccgtgt aagatcaagc ccgaaccgaa cacgcagcac ccggaggaca gcgacgagag
+     1261 tctgtcggac gacgattccc agcaccaccg cagcgagctg acgcgacggc cgtcgtacaa
+     1321 taagatcttc accgagatca gcggtccgga catgagcggc gcatcgcttc ccatgtccga
+     1381 cggcgtgctc aattcccagc tggcggggac cggagcgggg ggcaatgcgg cgaacagctc
+     1441 cctgatgcaa ttggatccca cgtactacct gtccaatcgg atgtcctaca acaccaacaa
+     1501 cagcgggata gcggaggatc agacccgtaa gcgcgagatc cggctgcaga agaacaggga
+     1561 ggcggcgcgt gagtgccggc gcaagaagaa ggagtacatc aagtgcctgg agaatcgagt
+     1621 ggcggtgcta gagaaccaaa acaaagcgct catcgaggag ctgaagtcgc tcaaggagct
+     1681 ctactgtcag accaagaacg attgaatgtg ggcggggctc tggcgccgcc tgcgcctccg
+     1741 cctccagtta cggctacggt tacggctacg gcaacggtta cggttacggt tacggcgatc
+     1801 actgcgcttc gctccgctct gttctattcc gttctgttct ggacaacaat ggtggatcga
+     1861 tccttgccgc tggccggtcg catatcatga tttctatacg catgggatgc tgcatgtggt
+     1921 agcgtgtaca ttaactgtgg ggatcgtgtt gttgttgttg ttgggatgca gacgggccga
+     1981 accggaccaa acctaatcga accgaaccgg atggaaggga cagagggtct atctgccgga
+     2041 cacacaatgt aattatgttt gtaatttaaa gatgtaatat tatgtttacg atttagttta
+     2101 tgccctagtt tactcgctaa cttaacgata ctgcagttta cctacgaaca tgtgtttccg
+     2161 taacctaaga cctttcacca cacccccccg catgcacacc ttaccttacc ttaccttacc
+     2221 tattgtaatt aaattttttg ttttacctaa ttcgtaatcg atgcagcaga acgtgcgtgt
+     2281 ctagcgaaag tgttttttct tagcgaattg ttgttgtgtg cccatatgtc aggatatagt
+     2341 caaccagcag gttgcccaat ccaccagagt cctttctaga tgggttttct gggcctacca
+     2401 aattaaaatt gttcaaaagt cgctagtttc acttgattta catatgcgtg tgcgtgtagt
+     2461 atgtatatat gcgtgtgtgc cggccaatgt gtatctgtag aattagtctt aaatcgaatg
+     2521 gatgaattga ttgtctggga tttgggcatg gagttaaata ttcaaacact ttgttacgta
+     2581 attttaaacg aaccctctcc gctcccaaag aacctggtta agcagacaat tctgcacgct
+     2641 accgtgaatc cagttcggaa tcgaaaggga acgatcttgg ccggaacaca cgcgtggcta
+     2701 cagatttata tatctatatc tatatatcta tttatatata tatatatata tatatataga
+     2761 tggcaaacac tctcgttatc tcttgtgatc gactcagttg ttgttatgaa atggtagaaa
+     2821 agagacgaag ggacggacaa atacgataaa ttaatgatga attcgggtac agagatcgaa
+     2881 cttttttatc tagcatagcg caacggaaac aatgtcgaaa tgaagcaccg gaaacggaaa
+     2941 tgaaaccata agaaaaccct gtattgtata tcgctctatt tttgatgtcc gaatccaaat
+     3001 ttccgagaaa aaaaaatgga aagcagagta aacaaaaaga aatctaaaaa aaaccgaaac
+     3061 acaagcaaaa acaaaaacga agggcgaagt ttggaggaga tcagcttttt ttggccaagt
+     3121 cagagaaggg ggaacgctga aaaaagggca aatgaaacca acaaaagttg cattcaacaa
+     3181 agtaaataaa aatattttta ttgtcattgc atatttctta agctagtact tttaataact
+     3241 aaatcgtaag cgcggaaaaa caaagtaaat gaaaacacaa acgataggcc acagcccaat
+     3301 acaaaaaagg attcataata aatcgcgtgc cgaaactaaa aggatggcaa atacaaacgc
+     3361 aggcgaaaaa tctgtagaaa ttacaatatt gttataaata tttgtctcaa tgagaaaaca
+     3421 aacaaacgaa aacaaccaac caacaaacaa acaaaagcaa aacaaaacca acaacaaaga
+     3481 aaaatataca ttaaaaaatc aataaaaaat atttgaac
+//

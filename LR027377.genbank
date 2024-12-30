@@ -1,0 +1,23 @@
+LOCUS       LR027377.1               670 bp    DNA              UNK 01-JAN-1980
+DEFINITION  LR027377.1 Thevetia peruviana partial PHYA gene for Protein.
+ACCESSION   LR027377
+VERSION     LR027377.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggaggtcttt gagctcacag gatatgatag ggtgatggca tataaatttc atgaagatga
+       61 tcatggagag gtgatatctg agatcatgaa gcctggcctt gagccttacc ttggtttgca
+      121 ttatccagcc acagatatcc ctcaggctgc acgctttttg ttcatgaaaa ataaagttcg
+      181 tatgatatgt gattgtcgtg caagacatgt aaaggtgttt caagatgaga agcttccttt
+      241 tgatctgact ttgtgtggct cgacactcag agctccacac agttgccatt tgcaatatat
+      301 ggagaatatg aattctattg catctttggt aatggctgtt gtaatcaatg atggggacga
+      361 tgaaggggat ggctccgatt ctgcacagcc tcagaaaaga aagaggcttt ggggtttagt
+      421 tgtttgtcat aatacgactc ctaggtttgt ccccttccca cttcgatatg cctgtgagtt
+      481 ccttgctcaa gtttttgcta tccatgttaa caaggagtta gaattggaaa atcaaattgt
+      541 tgagaagaat atcctaaaaa ctcagacact cttgtgcgat atgctgatga gagatgcacc
+      601 cttgggtatt gtgtcgcaga gtccaaacat aatggatctt gtcaaatgtg acggggctat
+      661 tctgttgtac
+//

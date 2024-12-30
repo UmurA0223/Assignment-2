@@ -1,0 +1,36 @@
+LOCUS       XM_024719586.1          1401 bp    DNA              UNK 01-JAN-1980
+DEFINITION  XM_024719586.1 Plasmopara halstedii protein (PHALS_06320), partial
+            mRNA.
+ACCESSION   XM_024719586
+VERSION     XM_024719586.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atgctaaagg agcaggatcc gatgatcgag cttctacgtg agtggataat gtcacctgtg
+       61 ggtgatcaac aagaactgcg tgtgtcagtg cttgaggttt ttcgctatat gagtatgctc
+      121 attgctgaga acgcaaagaa tcccgatcac agccgcctta ggaagtttct acctcaccat
+      181 aagaagtttt tcctaccgct ggatctcaca cgcgctgcac ttgagtatga cgctagtaca
+      241 cactttttag caagaaaacg tgtgccacct acatttaagg aggtgcgtca tatacttaat
+      301 ttggcaacta cgaatgccat tgctggcaag ctcaagcttg taacttttga tgccgacgac
+      361 acgatctacg aagatggcgg catcattaca aagagttcaa aaatggtgca cgtcattgta
+      421 gagctactgc accgaggtat agttgtatcc ctcgtcactg ctgctggata cccaggcaat
+      481 ccaggacggt acgaggaacg actacgaggt atcttagata cacttgaaga cgtatcgatg
+      541 gaagaacgtg cacgattttt agtcatgggt ggcgagtgca attatctatt tgagacgcat
+      601 acggacaaga caacgggtag ggtcaaattg cgagagatta atggtgtggt ttggaaggac
+      661 ggacgaggag agcgctggcc agaggaacag gtgacagctc tattggatgc tgcggaagtt
+      721 gtacttcaga aaatgataat gaatttacac ttgtcagcca ggatcgtaag aaaagaacga
+      781 gcaattggta tcattaacac atctacgaag cggatattgt acgagaactt ggaggagatc
+      841 agtctcacgc ttcagcacga acttcgacat ttccaggtcc cattttgtgc ctttaatggc
+      901 ggaaatgacg tttgggtaga tataggtaac aaagcattgg gaattcttgc actgcagaaa
+      961 tacgttttcc gcttcttgcc caaagaactt cgcgaaagtg aagagctgcg caacatccaa
+     1021 ggtcaagaat gtcttcatgt aggtgatcga ttcacgagga ctggcaatga cactcggtca
+     1081 cgagatgctg ctacgactat atggatttct aatccaaaag agacggctca cattatgact
+     1141 attttacttc ggacgattga ttctgtgcgg caacagaaga tggaacgtaa ggaggaaaaa
+     1201 gagaaagaaa agaggaccaa agagttgacg gcagcagctg cggcatatac gaccctcagt
+     1261 gacgatggta gcgatgttac agctgatgcg tctgacacga atgtctctag tgataatgaa
+     1321 agcagcgcca gtaatgatga attggagact acagtcaatg cagctatcca ggctgctacc
+     1381 agagcatcgc tgactaagta a
+//
